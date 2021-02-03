@@ -1,0 +1,23 @@
+body{
+  background-color: gray;
+  text-align: center;
+}
+
+.circle{
+  display: inline-block;
+  border-radius: 100%;
+  width:200px;
+  height:200px;
+  border: 1px solid black;
+  margin: 10px 20px;
+}
+
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
